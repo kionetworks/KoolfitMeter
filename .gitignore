@@ -41,11 +41,12 @@ nosetests.xml
 coverage.xml
 
 # Translations
-*.mo
 *.pot
 
 # Django stuff:
 *.log
+*.sqlite3
+*.pyc
 
 # Sphinx documentation
 docs/_build/
